@@ -1,4 +1,7 @@
 // git command
+
 git add .
-git commit -m "Added README for DP on Stocks problems"
+
+git commit -m "Added README"
+
 git push origin main
